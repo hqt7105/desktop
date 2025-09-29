@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocFileJSON", "DocFileJSON\DocFileJSON.csproj", "{823B9B5B-6B3B-4ED4-9722-36714D0B0568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocXML", "DocXML\DocXML.csproj", "{0B858136-AEA3-4336-BB34-59FB9A641D87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocXML2", "DocXML2\DocXML2.csproj", "{633D4600-7268-4FD6-BC02-90E0948676B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{823B9B5B-6B3B-4ED4-9722-36714D0B0568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823B9B5B-6B3B-4ED4-9722-36714D0B0568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823B9B5B-6B3B-4ED4-9722-36714D0B0568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823B9B5B-6B3B-4ED4-9722-36714D0B0568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B858136-AEA3-4336-BB34-59FB9A641D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B858136-AEA3-4336-BB34-59FB9A641D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B858136-AEA3-4336-BB34-59FB9A641D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B858136-AEA3-4336-BB34-59FB9A641D87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633D4600-7268-4FD6-BC02-90E0948676B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633D4600-7268-4FD6-BC02-90E0948676B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633D4600-7268-4FD6-BC02-90E0948676B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633D4600-7268-4FD6-BC02-90E0948676B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25D610B8-ED1F-4CBA-AACE-C7AF1D8C23E0}
+	EndGlobalSection
+EndGlobal

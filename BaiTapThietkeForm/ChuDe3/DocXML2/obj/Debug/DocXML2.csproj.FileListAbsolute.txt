@@ -1,0 +1,7 @@
+D:\ChuDe3\DocXML2\bin\Debug\DocXML2.exe.config
+D:\ChuDe3\DocXML2\bin\Debug\DocXML2.exe
+D:\ChuDe3\DocXML2\bin\Debug\DocXML2.pdb
+D:\ChuDe3\DocXML2\obj\Debug\DocXML2.csproj.AssemblyReference.cache
+D:\ChuDe3\DocXML2\obj\Debug\DocXML2.csproj.CoreCompileInputs.cache
+D:\ChuDe3\DocXML2\obj\Debug\DocXML2.exe
+D:\ChuDe3\DocXML2\obj\Debug\DocXML2.pdb
