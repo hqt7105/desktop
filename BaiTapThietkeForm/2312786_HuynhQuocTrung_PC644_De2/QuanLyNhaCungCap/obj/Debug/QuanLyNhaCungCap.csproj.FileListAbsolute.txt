@@ -1,0 +1,11 @@
+Z:\2312786_HuynhQuocTrung\QuanLyNhaCungCap\bin\Debug\QuanLyNhaCungCap.exe.config
+Z:\2312786_HuynhQuocTrung\QuanLyNhaCungCap\bin\Debug\QuanLyNhaCungCap.exe
+Z:\2312786_HuynhQuocTrung\QuanLyNhaCungCap\bin\Debug\QuanLyNhaCungCap.pdb
+Z:\2312786_HuynhQuocTrung\QuanLyNhaCungCap\obj\Debug\QuanLyNhaCungCap.csproj.AssemblyReference.cache
+Z:\2312786_HuynhQuocTrung\QuanLyNhaCungCap\obj\Debug\QuanLyNhaCungCap.MyForm.resources
+Z:\2312786_HuynhQuocTrung\QuanLyNhaCungCap\obj\Debug\QuanLyNhaCungCap.Properties.Resources.resources
+Z:\2312786_HuynhQuocTrung\QuanLyNhaCungCap\obj\Debug\QuanLyNhaCungCap.csproj.GenerateResource.cache
+Z:\2312786_HuynhQuocTrung\QuanLyNhaCungCap\obj\Debug\QuanLyNhaCungCap.csproj.CoreCompileInputs.cache
+Z:\2312786_HuynhQuocTrung\QuanLyNhaCungCap\obj\Debug\QuanLyNhaCungCap.exe
+Z:\2312786_HuynhQuocTrung\QuanLyNhaCungCap\obj\Debug\QuanLyNhaCungCap.pdb
+Z:\2312786_HuynhQuocTrung\QuanLyNhaCungCap\obj\Debug\QuanLyNhaCungCap.QuanLyNhapHang.resources
