@@ -1,0 +1,58 @@
+C:\Users\GIGABYTE\Downloads\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\Downloads\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.FoodForm.resources
+C:\Users\GIGABYTE\Downloads\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.Form1.resources
+C:\Users\GIGABYTE\Downloads\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.Properties.Resources.resources
+C:\Users\GIGABYTE\Downloads\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\Downloads\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Downloads\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\bin\Debug\CD4.exe.config
+C:\Users\GIGABYTE\Downloads\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\bin\Debug\CD4.exe
+C:\Users\GIGABYTE\Downloads\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\bin\Debug\CD4.pdb
+C:\Users\GIGABYTE\Downloads\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.exe
+C:\Users\GIGABYTE\Downloads\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.pdb
+C:\Users\GIGABYTE\Downloads\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.BillForm.resources
+C:\Users\GIGABYTE\Downloads\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.CT_HoaDon.resources
+C:\Users\GIGABYTE\Downloads\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.FormMain.resources
+D:\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.csproj.AssemblyReference.cache
+D:\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.BillForm.resources
+D:\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.CT_HoaDon.resources
+D:\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.FoodForm.resources
+D:\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.Form1.resources
+D:\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.FormMain.resources
+D:\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.Properties.Resources.resources
+D:\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.csproj.GenerateResource.cache
+D:\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.csproj.CoreCompileInputs.cache
+D:\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.exe
+D:\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\obj\Debug\CD4.pdb
+D:\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\bin\Debug\CD4.exe.config
+D:\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\bin\Debug\CD4.exe
+D:\CD4-20251002T124326Z-1-001\CD4\CD4\CD4\bin\Debug\CD4.pdb
+C:\Users\trung\Downloads\CD4-20251002T124326Z-1-001 (1)\CD4\CD4\CD4\bin\Debug\CD4.exe.config
+C:\Users\trung\Downloads\CD4-20251002T124326Z-1-001 (1)\CD4\CD4\CD4\bin\Debug\CD4.exe
+C:\Users\trung\Downloads\CD4-20251002T124326Z-1-001 (1)\CD4\CD4\CD4\bin\Debug\CD4.pdb
+C:\Users\trung\Downloads\CD4-20251002T124326Z-1-001 (1)\CD4\CD4\CD4\obj\Debug\CD4.csproj.AssemblyReference.cache
+C:\Users\trung\Downloads\CD4-20251002T124326Z-1-001 (1)\CD4\CD4\CD4\obj\Debug\CD4.exe.config
+C:\Users\trung\Downloads\CD4-20251002T124326Z-1-001 (1)\CD4\CD4\CD4\obj\Debug\CD4.BillForm.resources
+C:\Users\trung\Downloads\CD4-20251002T124326Z-1-001 (1)\CD4\CD4\CD4\obj\Debug\CD4.CT_HoaDon.resources
+C:\Users\trung\Downloads\CD4-20251002T124326Z-1-001 (1)\CD4\CD4\CD4\obj\Debug\CD4.FoodForm.resources
+C:\Users\trung\Downloads\CD4-20251002T124326Z-1-001 (1)\CD4\CD4\CD4\obj\Debug\CD4.Form1.resources
+C:\Users\trung\Downloads\CD4-20251002T124326Z-1-001 (1)\CD4\CD4\CD4\obj\Debug\CD4.FormMain.resources
+C:\Users\trung\Downloads\CD4-20251002T124326Z-1-001 (1)\CD4\CD4\CD4\obj\Debug\CD4.Properties.Resources.resources
+C:\Users\trung\Downloads\CD4-20251002T124326Z-1-001 (1)\CD4\CD4\CD4\obj\Debug\CD4.csproj.GenerateResource.cache
+C:\Users\trung\Downloads\CD4-20251002T124326Z-1-001 (1)\CD4\CD4\CD4\obj\Debug\CD4.csproj.CoreCompileInputs.cache
+C:\Users\trung\Downloads\CD4-20251002T124326Z-1-001 (1)\CD4\CD4\CD4\obj\Debug\CD4.exe
+C:\Users\trung\Downloads\CD4-20251002T124326Z-1-001 (1)\CD4\CD4\CD4\obj\Debug\CD4.pdb
+D:\c#test\ChuDe4\CD4\bin\Debug\CD4.exe.config
+D:\c#test\ChuDe4\CD4\bin\Debug\CD4.exe
+D:\c#test\ChuDe4\CD4\bin\Debug\CD4.pdb
+D:\c#test\ChuDe4\CD4\obj\Debug\CD4.csproj.AssemblyReference.cache
+D:\c#test\ChuDe4\CD4\obj\Debug\CD4.exe.config
+D:\c#test\ChuDe4\CD4\obj\Debug\CD4.BillForm.resources
+D:\c#test\ChuDe4\CD4\obj\Debug\CD4.CT_HoaDon.resources
+D:\c#test\ChuDe4\CD4\obj\Debug\CD4.FoodForm.resources
+D:\c#test\ChuDe4\CD4\obj\Debug\CD4.Form1.resources
+D:\c#test\ChuDe4\CD4\obj\Debug\CD4.FormMain.resources
+D:\c#test\ChuDe4\CD4\obj\Debug\CD4.Properties.Resources.resources
+D:\c#test\ChuDe4\CD4\obj\Debug\CD4.csproj.GenerateResource.cache
+D:\c#test\ChuDe4\CD4\obj\Debug\CD4.csproj.CoreCompileInputs.cache
+D:\c#test\ChuDe4\CD4\obj\Debug\CD4.exe
+D:\c#test\ChuDe4\CD4\obj\Debug\CD4.pdb
